@@ -1,4 +1,5 @@
 NotesApp
-https://github.com/SpardaPrime/Notes
 
-https://spardaprime.github.io/react-deploy/
+Репозиторий с dev-версией https://github.com/SpardaPrime/Notes
+
+React-app https://spardaprime.github.io/react-deploy/
